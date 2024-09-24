@@ -49,4 +49,3 @@ O aplicativo será iniciado em http://localhost:5173/
 * **Listagem de Issues:** Lista todas as issues de um repositório configurado, apresentando um resumo de cada uma, como título e descrição.
 * **Filtragem de Issues:** Permite filtrar as issues por diversos critérios, como labels, autor ou data de criação.
 * **Visualização Detalhada:** Ao clicar em uma issue, o usuário é direcionado para uma página que exibe o conteúdo completo da issue, incluindo comentários.
-
